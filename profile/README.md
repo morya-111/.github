@@ -1,8 +1,6 @@
-# .github
-
 <img src="https://i.ibb.co/pZVH8Yt/Frame-37bookex-github.png" alt="Frame-37bookex-github" border="0">
 
-## BookEx
+## About BookEx
 
 BookEx is a Web platform where you can buy, sell or rent used books from people around you.  
 Checkout the website yourself here: https://bookex.netlify.app/  
